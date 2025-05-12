@@ -1,0 +1,9 @@
+Aminoglycosides,Cefotaxime,Chloramphenicol,Erythromycin,Beta_lactams,Fluoroquinolones,Macrolides,Novobiocin,Linezolid,Tetracyclines,Nitrofurantoin,Tigecycline,Triclosan,Trimethoprim
+1,1,1,1,0,1,0,0,0,1,0,1,0,1
+0,0,1,1,1,0,0,1,1,1,0,0,0,0
+0,0,1,0,0,1,0,0,0,0,1,0,0,0
+0,0,1,1,1,1,0,1,1,1,0,0,1,0
+0,0,1,1,1,1,1,0,0,1,0,0,0,0
+0,0,0,1,0,0,0,0,0,0,0,0,0,0
+0,0,0,0,0,0,1,0,0,0,0,0,0,0
+0,0,0,0,0,1,0,0,0,0,0,0,0,0
